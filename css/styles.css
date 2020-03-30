@@ -1,0 +1,52 @@
+.LOGO {
+    height: auto;
+    width: 200px;
+    padding: 0px 0px;
+    
+}
+
+.FLAGS {
+    margin-left: 650px;
+    padding-top: 5px;
+}
+
+.SLIDER {
+    height: 500px;
+    margin-top: 0px;
+}
+
+.NAV{
+    margin-bottom: 0px;
+    background-color: #ffffff;
+}
+
+.THUMBS{
+    margin-top: 50px;
+}
+
+.caption h5 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: rgb(11, 2, 92);
+    height: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer h6{
+    color: rgb(185, 185, 7);
+    text-align: center;
+}
+
+.footer p {
+    color: rgb(2, 85, 2);
+    text-align: center;
+}
+
+.FOOTERADD{
+    padding-left: 40px;
+    padding-right: 40px;
+}
